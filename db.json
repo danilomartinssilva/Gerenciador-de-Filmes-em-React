@@ -1,0 +1,76 @@
+{
+  "series": [
+    {
+      "id": 1,
+      "name": "How I met your mother",
+      "status": "watched",
+      "genre": "Comédia",
+      "comments": "Muito bom"
+    },
+    {
+      "id": 2,
+      "name": "Friends",
+      "status": "watching",
+      "genre": "Comédia",
+      "current": {
+        "episode": "01",
+        "season": "09"
+      },
+      "comments": "Bom para descontrair"
+    },
+    {
+      "id": 3,
+      "name": "Breaking Bad",
+      "status": "watched",
+      "genre": "Drama",
+      "comments": "Say My Name - melhor cena"
+    },
+    {
+      "id": 4,
+      "name": "Better Call Saul",
+      "status": "toWatch",
+      "genre": "Drama",
+      "comments": "Galera fala bem"
+    },
+    {
+      "name": "TesteS",
+      "status": "watched",
+      "genre": "Ação",
+      "comments": "Teste",
+      "id": 5
+    },
+    {
+      "name": "La casa de Papel",
+      "status": "watching",
+      "genre": "Ação",
+      "comments": "Assalto a casa da moeda da Espanha.",
+      "id": 6
+    },
+    {
+      "name": "La casa de Papel",
+      "status": "watching",
+      "genre": "Ação",
+      "comments": "Assalto a casa da moeda da Espanha.",
+      "id": 7
+    },
+    {
+      "name": "Teste",
+      "status": "watching",
+      "genre": "Drama",
+      "comments": "Teste",
+      "id": 8
+    },
+    {
+      "name": "Teste",
+      "status": "toWatch",
+      "genre": "Drama",
+      "comments": "Teste",
+      "id": 9
+    }
+  ],
+  "genres": [
+    "Comédia",
+    "Drama",
+    "Ação"
+  ]
+}
